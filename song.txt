@@ -1,1 +1,5 @@
-new non conflict part  
+new non conflict part
+
+new commit in feature branch 
+second commit in feature branch
+3th commit
