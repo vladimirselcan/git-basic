@@ -1,1 +1,3 @@
-new non conflict part  
+new non conflict part
+
+new commit in feature branch 
